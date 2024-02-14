@@ -1,0 +1,14 @@
+.bnt-container > button {
+    color: #b3d8d2;
+    border: #00272d 2px solid;
+    border-radius: 8px;
+    background-color: #134647;
+    margin: 0.3rem;
+    padding: 0.8rem;
+
+    transition: 0.2s ease-in;
+}
+
+.bnt-container > button:hover {
+    background-color: #00272d;
+}
